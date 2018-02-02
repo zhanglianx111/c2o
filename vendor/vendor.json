@@ -74,15 +74,14 @@
 			"checksumSHA1": "GPUrgBbndtICwqyaeW0oT94mTVE=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/beorn7/perks/quantile",
 			"path": "github.com/beorn7/perks/quantile",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "n+s4YwtzpMWW5Rt0dEaQa7NHDGQ=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/blang/semver",
+			"checksumSHA1": "OT4XN9z5k69e2RsMSpwW74B+yk4=",
 			"path": "github.com/blang/semver",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "2ee87856327ba09384cabd113bc6b5d174e9ec0f",
+			"revisionTime": "2017-07-27T06:48:18Z"
 		},
 		{
 			"checksumSHA1": "dKfTZxKS3etgwwgeN5pI7eN91bI=",
@@ -172,10 +171,8 @@
 			"checksumSHA1": "8yvt1xKCgNwuuavJdxRnvaIjrIc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/coreos/go-oidc/jose",
 			"path": "github.com/coreos/go-oidc/jose",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z",
-			"version": "v1",
-			"versionExact": "v1.8.0"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "KrqPjrU5qLvUvJipDZgMWkgDvgE=",
@@ -201,10 +198,8 @@
 			"checksumSHA1": "vHHHKyzYNocN9jFiqGL0pRxE/kY=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/coreos/go-oidc/oidc",
 			"path": "github.com/coreos/go-oidc/oidc",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z",
-			"version": "v1",
-			"versionExact": "v1.8.0"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "d50/+u/LFlXvEV10HiEoXB9OsGg=",
@@ -243,17 +238,15 @@
 		},
 		{
 			"checksumSHA1": "5rPfda8jFccr3A6heL+JAmi9K9g=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/davecgh/go-spew/spew",
 			"path": "github.com/davecgh/go-spew/spew",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "i3NItrEjxSWwGFxT9ptPRUZJt0o=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/dgrijalva/jwt-go",
 			"path": "github.com/dgrijalva/jwt-go",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "o61at8dJ05jUbLHtEJjaSYCPWJQ=",
@@ -301,57 +294,53 @@
 			"checksumSHA1": "fBhdDgizUIeWZsfuTD8FIgksllY=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution",
 			"path": "github.com/docker/distribution",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "Q7D2OH21vj1ToXfgeLzDdvOn2PI=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution/context",
 			"path": "github.com/docker/distribution/context",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "f1wARLDzsF/JoyN01yoxXEwFIp8=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution/digest",
 			"path": "github.com/docker/distribution/digest",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "9ymKULEPvYfNX+PCqIZfq5CMP/c=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution/manifest",
 			"path": "github.com/docker/distribution/manifest",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "eVnmFVjnalSvMltTf9yHhdBgobc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution/manifest/schema1",
 			"path": "github.com/docker/distribution/manifest/schema1",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "ZuTHl2f1hNYKoBnQXFXxYtwXg6Y=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution/manifest/schema2",
 			"path": "github.com/docker/distribution/manifest/schema2",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "PzXRTLmmqWXxmDqdIXLcRYBma18=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution/reference",
 			"path": "github.com/docker/distribution/reference",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "cNp7rNReJHvdSfrIetXS9RGsLSo=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/distribution/uuid",
 			"path": "github.com/docker/distribution/uuid",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "S3x8Y9o2M40Y/tooE3J78fxKeFE=",
@@ -553,36 +542,30 @@
 			"checksumSHA1": "SL+jCUHHU7clR330N6qe3O0Csek=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/libcompose/yaml",
 			"path": "github.com/docker/libcompose/yaml",
-			"revision": "57bd716502dcbe1799f026148016022b0f3b989c",
-			"revisionTime": "2017-10-25T08:38:09Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "s/YDu3X9GDsWLuEZ8S8F7eZ3shk=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/libtrust",
 			"path": "github.com/docker/libtrust",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "WgCykZHqDeqAC3A/utllcW2oaQQ=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/emicklei/go-restful",
 			"path": "github.com/emicklei/go-restful",
-			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
-			"revisionTime": "2018-02-01T09:42:16Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "3xWz4fZ9xW+CfADpYoPFcZCYJ4E=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/emicklei/go-restful/log",
 			"path": "github.com/emicklei/go-restful/log",
-			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
-			"revisionTime": "2018-02-01T09:42:16Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "5D7Ytd5lbjqNbsX27BndSO8puXw=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/emicklei/go-restful/swagger",
 			"path": "github.com/emicklei/go-restful/swagger",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "OZgNglMKHbQ8TBE+d+LzhtSvEWs=",
@@ -609,155 +592,147 @@
 			"checksumSHA1": "NiwYUX5Bp6p4F52WoFOMua7wWrs=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient",
 			"path": "github.com/fsouza/go-dockerclient",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "DCKEEyQJ3/VmQBR+CWPZXu5XNKg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/Sirupsen/logrus",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "608Y3rj23jTnrZJjGaFRK+s5IcU=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/opts",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/opts",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "+cRBLjhQPj7YVpj6J/UvkALgj1k=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/archive",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/archive",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "dEFpUEhnmCDWorKpavPHVTkijYk=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/fileutils",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/fileutils",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "gqNisQFLlzSB6GxBq4PkDbnNayg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/homedir",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/homedir",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "B5n9LVGXOsgyLjgpG49/z33DQr8=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/idtools",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/idtools",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "Wufcejxg4ay719EwD4EJAh0HCdk=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/ioutils",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "9XQOQ2MyLt5gfTENYwo0Iuxaeoo=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/longpath",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/longpath",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "xRNl3MgjAJmN84KE4MzmVyGoe9M=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/pools",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/pools",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "l63UQekgrt3jXEuq0rqsaLx5onI=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/promise",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/promise",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "E4MW4qF8yysAY8Hi9UqoLY9+7ew=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/stdcopy",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/stdcopy",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "/vUfR+BdfifZcbYHIsWEnd3sgpw=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/system",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/docker/pkg/system",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "fHlsKzi/xqCG1GgCHMlduGVJXhI=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/docker/go-units",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/docker/go-units",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "ykz2Vueoe6MDpGouz+iSaNOZIBc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/hashicorp/go-cleanhttp",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/hashicorp/go-cleanhttp",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "jTR9Yiyl9JvvQLrxZZfdRm0hcqs=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/github.com/opencontainers/runc/libcontainer/user",
 			"path": "github.com/fsouza/go-dockerclient/external/github.com/opencontainers/runc/libcontainer/user",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "o9VcknDJbqkKjX+smSL9Edi9ctc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/golang.org/x/net/context",
 			"path": "github.com/fsouza/go-dockerclient/external/golang.org/x/net/context",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "deTcWbZ9Mxt7wTqEUrawtTDrzEk=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/fsouza/go-dockerclient/external/golang.org/x/sys/unix",
 			"path": "github.com/fsouza/go-dockerclient/external/golang.org/x/sys/unix",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "ww7LVo7jNJ1o6sfRcromEHKyY+o=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/ghodss/yaml",
 			"path": "github.com/ghodss/yaml",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "WJWV1StoU43jDoNv4TC1YxhJozQ=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/gogo/protobuf/proto",
 			"path": "github.com/gogo/protobuf/proto",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "e6cMbpJj41MpihS5eP4SIliRBK4=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/gogo/protobuf/sortkeys",
 			"path": "github.com/gogo/protobuf/sortkeys",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "MZER6YEi3ZhZudkzmA0As74/MIY=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/golang/glog",
 			"path": "github.com/golang/glog",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "Bra/9XucW0ivjIalL27XqSw2dTk=",
@@ -777,22 +752,20 @@
 			"checksumSHA1": "WsOSzKZZG416V2ow6CzULeY4GO4=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/golang/protobuf/proto",
 			"path": "github.com/golang/protobuf/proto",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "beYiiT3tyjwEVp9urnNACH49KRg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/google/cadvisor/info/v1",
 			"path": "github.com/google/cadvisor/info/v1",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "OmHW+w56n1qbdN/sPFu1+Es4SH0=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/google/gofuzz",
 			"path": "github.com/google/gofuzz",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "uFNLkTxk8BkHTk0Jcub2lj2BX4M=",
@@ -810,15 +783,15 @@
 			"checksumSHA1": "Bev6wUWj9ao5HvSK9NkV4EahnS0=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/gorilla/context",
 			"path": "github.com/gorilla/context",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "c3Hft82y7Wg16WfigkCGaxkhgnA=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/gorilla/mux",
 			"path": "github.com/gorilla/mux",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "m1ZcuEjYXGa1TVwnZBUdnL3kzhQ=",
@@ -852,8 +825,8 @@
 			"checksumSHA1": "hR6pE8XWX5E3A1ubNgFGuBxRgO8=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/inconshreveable/mousetrap",
 			"path": "github.com/inconshreveable/mousetrap",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "zaJNDEzzdfjSNUf0dABnKb7kqnw=",
@@ -877,10 +850,8 @@
 		},
 		{
 			"checksumSHA1": "gA95N2LM2hEJLoqrTPaFsSWDJ2Y=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/juju/ratelimit",
 			"path": "github.com/juju/ratelimit",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "h6sPE8pRrjp+8lQ2ICS545ObYoE=",
@@ -893,8 +864,8 @@
 			"checksumSHA1": "Q2vw4HZBbnU8BLFt8VrzStwqSJg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/matttproud/golang_protobuf_extensions/pbutil",
 			"path": "github.com/matttproud/golang_protobuf_extensions/pbutil",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "JLuWkt9EOvYUI++1E2HnHDeaaRw=",
@@ -956,22 +927,22 @@
 			"checksumSHA1": "TJwX/jOiZFOMyeZJPKENY3CYobo=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/api",
 			"path": "github.com/openshift/origin/pkg/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "ZhpPMjFOahsl0Jvvoo0rgq/MBMg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/api/extension",
 			"path": "github.com/openshift/origin/pkg/api/extension",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "2wtiWl48wYlT0hCj0bijLKuYJcQ=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/api/latest",
 			"path": "github.com/openshift/origin/pkg/api/latest",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "1dQ5BrtCoYb2WxJTMWqeLeAvyjk=",
@@ -998,36 +969,36 @@
 			"checksumSHA1": "cROByAIk4qCxx4ATCeGBxKxxO48=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/authorization/api",
 			"path": "github.com/openshift/origin/pkg/authorization/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "fe6Ab4q4h37c0Paz7exw2YYIgNM=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/build/api",
 			"path": "github.com/openshift/origin/pkg/build/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "KQzP84koD6s9NSa5uE5rwDIvUMI=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/build/api/install",
 			"path": "github.com/openshift/origin/pkg/build/api/install",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "1ClsgIdq6lo/2Aasmcdha7snSrw=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/build/api/v1",
 			"path": "github.com/openshift/origin/pkg/build/api/v1",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "utdalUxN450FCsAT/RMgRZpWovc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/build/client",
 			"path": "github.com/openshift/origin/pkg/build/client",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "gSctsDyv7fa4vy0kL9ybKIJ5uW8=",
@@ -1040,15 +1011,15 @@
 			"checksumSHA1": "7ztAZiWHLP89T2oodhVpSTTsdQ8=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/build/util",
 			"path": "github.com/openshift/origin/pkg/build/util",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "5zZDKRN5xwORfaxSutr90Q/Fjxs=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/client",
 			"path": "github.com/openshift/origin/pkg/client",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "0ffRNFb3FyvX5JyT7UjbIU9+4OM=",
@@ -1068,22 +1039,22 @@
 			"checksumSHA1": "gfVt9ObhXJjfBwl0wtJ51kYZ4vg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/deploy/api",
 			"path": "github.com/openshift/origin/pkg/deploy/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "SWku/m2qdbz6FOQM1gMYrcBNkEA=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/deploy/api/install",
 			"path": "github.com/openshift/origin/pkg/deploy/api/install",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "2XwUQnk5ZFIbbXVMFnRviie8FZ8=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/deploy/api/v1",
 			"path": "github.com/openshift/origin/pkg/deploy/api/v1",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "MagVb83GSynE6NKF6wg+CoY8DDE=",
@@ -1103,120 +1074,120 @@
 			"checksumSHA1": "Es3rRUAzTAJcRa3fNiKr3O/5eP0=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/image/api",
 			"path": "github.com/openshift/origin/pkg/image/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "yVgnRdYFiiIebGvrVl284rEPJmQ=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/image/api/docker10",
 			"path": "github.com/openshift/origin/pkg/image/api/docker10",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "9cYE1eEmTlE1CJJMVGkm9W47bbc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/image/api/dockerpre012",
 			"path": "github.com/openshift/origin/pkg/image/api/dockerpre012",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "4wTJ9umZhLsy7+4STyQijAPBrag=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/image/api/install",
 			"path": "github.com/openshift/origin/pkg/image/api/install",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "FUmHuSt6KWkTthYlKSSXGnGmk8I=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/image/api/v1",
 			"path": "github.com/openshift/origin/pkg/image/api/v1",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "pBsYTlCgqvm7pos2ENmymScj0cY=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/image/reference",
 			"path": "github.com/openshift/origin/pkg/image/reference",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "MT6IpslosSlNr5RMkzTvCVdJQ4I=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/oauth/api",
 			"path": "github.com/openshift/origin/pkg/oauth/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "8YkvbCmcAez4fngHyBs9tXIT1Yw=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/project/api",
 			"path": "github.com/openshift/origin/pkg/project/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "8Ar//zjOykroVKZG/SgXXlztCgM=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/quota/api",
 			"path": "github.com/openshift/origin/pkg/quota/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "Zl7qw8G5ag1iHeu26bHWRec3FJA=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/quota/util",
 			"path": "github.com/openshift/origin/pkg/quota/util",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "4oJQ9IWwg4cdJ6+FNKi1O8zSPZY=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/route/api",
 			"path": "github.com/openshift/origin/pkg/route/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "lcOqqKAHhYlZYocP0upZkA2Nbtg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/route/api/install",
 			"path": "github.com/openshift/origin/pkg/route/api/install",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "MtrBRTAyXDagzPenEhAwUkLjuWQ=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/route/api/v1",
 			"path": "github.com/openshift/origin/pkg/route/api/v1",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "sfEYbhioPuzxIlJ87O++Y/ubobU=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/sdn/api",
 			"path": "github.com/openshift/origin/pkg/sdn/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "u7Bzn+ByS8gI8Kegv8AnCsCDapI=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/security/api",
 			"path": "github.com/openshift/origin/pkg/security/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "5yvG9oD6pCmjL3pQrbaJzVNgE4c=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/template/api",
 			"path": "github.com/openshift/origin/pkg/template/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "yHrCDmTyXI4gru30OMHiM9zRlys=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/user/api",
 			"path": "github.com/openshift/origin/pkg/user/api",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "CjhKdyFaQuLQ3FdcarGWco0bEzA=",
@@ -1229,78 +1200,76 @@
 			"checksumSHA1": "c1eSTPZCYM3htNq6oDCFJG69hso=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/util/namer",
 			"path": "github.com/openshift/origin/pkg/util/namer",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "RmgKNtdVtSWEArBVD9yDS2mflkQ=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/openshift/origin/pkg/version",
 			"path": "github.com/openshift/origin/pkg/version",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "oUDXKbP3YlIKnkaa8BMwKrY/b/M=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/pborman/uuid",
 			"path": "github.com/pborman/uuid",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "qZVNeWVehkLiNOGJamAyv6hc9BA=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/pkg/errors",
 			"path": "github.com/pkg/errors",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "CkMLzZoYmnVZB04XIJxV4FSLq0s=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/prometheus/client_golang/prometheus",
 			"path": "github.com/prometheus/client_golang/prometheus",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "DvwvOlPNAgRntBzt3b3OSRMS2N4=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/prometheus/client_model/go",
 			"path": "github.com/prometheus/client_model/go",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "DOkbYZAGVR8Xv/dqg5PZbsS6Aeg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/prometheus/common/expfmt",
 			"path": "github.com/prometheus/common/expfmt",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "GP5CS3lUnZ3JAxBWqUj4ZMKU9dg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
 			"path": "github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "phCwHdzGarRNOEboPL96LZxI/Fc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/prometheus/common/model",
 			"path": "github.com/prometheus/common/model",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "lCKXgB8ryOVy7b1dL56HJC6Z2qA=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/prometheus/procfs",
 			"path": "github.com/prometheus/procfs",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "Y+0ZP+koG3DjWyx3jEdplXcZKJE=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/sirupsen/logrus",
 			"path": "github.com/sirupsen/logrus",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "ozRFnFdTG0IjkTE0RkZn71XO4gw=",
@@ -1342,22 +1311,18 @@
 			"checksumSHA1": "Ow/SSsuBG9203AOsGuce7WWkINI=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/spf13/cobra",
 			"path": "github.com/spf13/cobra",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "RZThe5ivmq3lgXthXsDwkYezTH0=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/spf13/pflag",
 			"path": "github.com/spf13/pflag",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "L0z4WIxERWItcxiJBOSbI/3P8UQ=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/ugorji/go/codec",
 			"path": "github.com/ugorji/go/codec",
-			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
-			"revisionTime": "2018-02-01T09:42:16Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "ssvU/CExHm2dXZ6upDC0vOCaQdU=",
@@ -1456,15 +1421,14 @@
 			"checksumSHA1": "X1NTlfcau2XcV6WtAHF6b/DECOA=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/crypto/ssh/terminal",
 			"path": "golang.org/x/crypto/ssh/terminal",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/net/context",
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
 			"path": "golang.org/x/net/context",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "6c23252515492caf9b228a9d5cabcdbde29f7f82",
+			"revisionTime": "2017-03-24T21:59:51Z"
 		},
 		{
 			"checksumSHA1": "42KMWr1GM3G/gC/3HjTt4XqB714=",
@@ -1474,18 +1438,16 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "f7rA4zZ4cHanP0t3bN8GJVsFz+g=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/net/http2",
+			"checksumSHA1": "cdT+oqPhYKGf3r+HkPo51IauZnA=",
 			"path": "golang.org/x/net/http2",
-			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
-			"revisionTime": "2018-02-01T09:42:16Z"
+			"revision": "6c23252515492caf9b228a9d5cabcdbde29f7f82",
+			"revisionTime": "2017-03-24T21:59:51Z"
 		},
 		{
-			"checksumSHA1": "EYNaHp7XdLWRydUCE0amEkKAtgk=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/net/http2/hpack",
+			"checksumSHA1": "kyClpesDqa6LA7CFPGgKrX9NKkA=",
 			"path": "golang.org/x/net/http2/hpack",
-			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
-			"revisionTime": "2018-02-01T09:42:16Z"
+			"revision": "6c23252515492caf9b228a9d5cabcdbde29f7f82",
+			"revisionTime": "2017-03-24T21:59:51Z"
 		},
 		{
 			"checksumSHA1": "VrzPJyWI6disCgYuVEQzkjqUsJk=",
@@ -1501,11 +1463,10 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "yhndhWXMs/VSEDLks4dNyFMQStA=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/net/lex/httplex",
+			"checksumSHA1": "3xyuaSNmClqG4YWC7g0isQIbUTc=",
 			"path": "golang.org/x/net/lex/httplex",
-			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
-			"revisionTime": "2018-02-01T09:42:16Z"
+			"revision": "6c23252515492caf9b228a9d5cabcdbde29f7f82",
+			"revisionTime": "2017-03-24T21:59:51Z"
 		},
 		{
 			"checksumSHA1": "WpST9lFOHvWrjDVy0GJNqHe+R3E=",
@@ -1518,15 +1479,15 @@
 			"checksumSHA1": "0rmaYUFyEMS5cFnAb/i2l8wcqWo=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/oauth2",
 			"path": "golang.org/x/oauth2",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "92TBjKPPMEcAfNqc2xWF8fSfZMg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/oauth2/google",
 			"path": "golang.org/x/oauth2/google",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "D3v/aqfB9swlaZcSksCoF+lbOqo=",
@@ -1553,15 +1514,15 @@
 			"checksumSHA1": "GmufYm3WIi3ppztXnEyDgDUc1M4=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/sys/unix",
 			"path": "golang.org/x/sys/unix",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "pBPFzDGt3AVSRffB7ffiUnruFUk=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/golang.org/x/sys/windows",
 			"path": "golang.org/x/sys/windows",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "faFDXp++cLjLBlvsr+izZ+go1WU=",
@@ -1722,17 +1683,13 @@
 		},
 		{
 			"checksumSHA1": "6f8MEU31llHM1sLM/GGH4/Qxu0A=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/gopkg.in/inf.v0",
 			"path": "gopkg.in/inf.v0",
-			"revision": "0c0c027987495f2240e30cd5979a45668e670f47",
-			"revisionTime": "2018-01-24T15:52:14Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "AuktOnOuxFJJtUB0xiEJRfNUzXE=",
-			"origin": "github.com/zhanglianx111/kompose/vendor/gopkg.in/yaml.v2",
 			"path": "gopkg.in/yaml.v2",
-			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
-			"revisionTime": "2018-02-01T09:42:16Z"
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "sEhhIqqDuwr37onMdtVC2nYbDGU=",
