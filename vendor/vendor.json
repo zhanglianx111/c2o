@@ -3,6 +3,20 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "ZLRh6zW4/DnVsGpgtt+ZiIaEFKc=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/cloud.google.com/go/compute/metadata",
+			"path": "cloud.google.com/go/compute/metadata",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "hiJXjkFEGy+sDFf6O58Ocdy9Rnk=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/cloud.google.com/go/internal",
+			"path": "cloud.google.com/go/internal",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "a9Sq/X9bS1l5EA7KfRmtw4lMedY=",
 			"path": "github.com/astaxie/beego",
 			"revision": "f16688817aa428d10361394015b40d096b680542",
@@ -57,7 +71,6 @@
 			"revisionTime": "2017-12-18T11:18:59Z"
 		},
 		{
-<<<<<<< HEAD
 			"checksumSHA1": "GPUrgBbndtICwqyaeW0oT94mTVE=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/beorn7/perks/quantile",
 			"path": "github.com/beorn7/perks/quantile",
@@ -169,15 +182,12 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-=======
->>>>>>> d9dcc2b036c6abdb7427a4fb8046eacc90e9d667
 			"path": "github.com/coreos/go-oidc/oauth",
 			"revision": "v1",
 			"version": "v1",
 			"versionExact": "v1"
 		},
 		{
-<<<<<<< HEAD
 			"checksumSHA1": "DkhOJljW4QShU2A7R9jhUYSbeLw=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/coreos/go-oidc/oauth2",
 			"path": "github.com/coreos/go-oidc/oauth2",
@@ -396,6 +406,13 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
+			"checksumSHA1": "mi8EDCDjtrZEONRXPG7VHJosDwY=",
+			"origin": "github.com/docker/libcompose/vendor/github.com/docker/docker/api/types/swarm/runtime",
+			"path": "github.com/docker/docker/api/types/swarm/runtime",
+			"revision": "57bd716502dcbe1799f026148016022b0f3b989c",
+			"revisionTime": "2017-10-25T08:38:09Z"
+		},
+		{
 			"checksumSHA1": "wFCuaR919sA6UMR8ggGq5a/uC3g=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/docker/api/types/versions",
 			"path": "github.com/docker/docker/api/types/versions",
@@ -429,57 +446,43 @@
 			"path": "github.com/docker/engine-api/types/container",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
-=======
-			"checksumSHA1": "uFNLkTxk8BkHTk0Jcub2lj2BX4M=",
-			"path": "github.com/google/uuid",
-			"revision": "dec09d789f3dba190787f8b4454c7d3c936fed9e",
-			"revisionTime": "2017-11-29T19:10:14Z"
->>>>>>> d9dcc2b036c6abdb7427a4fb8046eacc90e9d667
 		},
 		{
-			"checksumSHA1": "yIkYzW7bzAD81zHyuCNmEj4+oxQ=",
-			"path": "github.com/gopherjs/gopherjs/js",
-			"revision": "178c176a91fe05e3e6c58fa5c989bad19e6cdcb3",
-			"revisionTime": "2018-01-18T17:31:29Z"
+			"checksumSHA1": "fnIvKIA+VMaCN+oGWFti6mxViDQ=",
+			"path": "github.com/docker/engine-api/types/filters",
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "Js/yx9fZ3+wH1wZpHNIxSTMIaCg=",
-			"path": "github.com/jtolds/gls",
-			"revision": "77f18212c9c7edc9bd6a33d383a7b545ce62f064",
-			"revisionTime": "2017-05-03T22:40:06Z"
+			"checksumSHA1": "wVMCSzKRYBDAkGORDIIQFzZBZMo=",
+			"path": "github.com/docker/engine-api/types/network",
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "ozRFnFdTG0IjkTE0RkZn71XO4gw=",
-			"path": "github.com/smartystreets/assertions",
-			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
-			"revisionTime": "2017-09-25T17:21:51Z"
+			"checksumSHA1": "Yto1DJP+S7aiRrNiEqDDqxe+mSo=",
+			"path": "github.com/docker/engine-api/types/registry",
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "Vzb+dEH/LTYbvr8RXHmt6xJHz04=",
-			"path": "github.com/smartystreets/assertions/internal/go-render/render",
-			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
-			"revisionTime": "2017-09-25T17:21:51Z"
+			"checksumSHA1": "Mgvb6aJiQKpzcOQy5LpfpWrM5L0=",
+			"path": "github.com/docker/engine-api/types/strslice",
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "r6FauVdOTFnwYQgrKGFuWUbIAJE=",
-			"path": "github.com/smartystreets/assertions/internal/oglematchers",
-			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
-			"revisionTime": "2017-09-25T17:21:51Z"
+			"checksumSHA1": "hPfmKSLv/WKTcHN4KSpNcXcg+dA=",
+			"path": "github.com/docker/engine-api/types/versions",
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "f4m09DHEetaanti/GqUJzyCBTaI=",
-			"path": "github.com/smartystreets/goconvey/convey",
-			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
-			"revisionTime": "2017-08-25T22:14:26Z"
+			"checksumSHA1": "kktbWelM0xVH61fOWltCEOR/87E=",
+			"path": "github.com/docker/go-connections/nat",
+			"revision": ""
 		},
 		{
-			"checksumSHA1": "9LakndErFi5uCXtY1KWl0iRnT4c=",
-			"path": "github.com/smartystreets/goconvey/convey/gotest",
-			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
-			"revisionTime": "2017-08-25T22:14:26Z"
+			"checksumSHA1": "t0Oj80kWHaKPI7a/LjMLaDlyD4I=",
+			"path": "github.com/docker/go-units",
+			"revision": ""
 		},
 		{
-<<<<<<< HEAD
 			"checksumSHA1": "lIxyQdSiXjHkhyqmxNBaMGACK3s=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/libcompose/config",
 			"path": "github.com/docker/libcompose/config",
@@ -764,6 +767,18 @@
 			"revisionTime": "2017-11-29T19:10:14Z"
 		},
 		{
+			"checksumSHA1": "uFNLkTxk8BkHTk0Jcub2lj2BX4M=",
+			"path": "github.com/google/uuid",
+			"revision": "dec09d789f3dba190787f8b4454c7d3c936fed9e",
+			"revisionTime": "2017-11-29T19:10:14Z"
+		},
+		{
+			"checksumSHA1": "yIkYzW7bzAD81zHyuCNmEj4+oxQ=",
+			"path": "github.com/gopherjs/gopherjs/js",
+			"revision": "178c176a91fe05e3e6c58fa5c989bad19e6cdcb3",
+			"revisionTime": "2018-01-18T17:31:29Z"
+		},
+		{
 			"checksumSHA1": "yIkYzW7bzAD81zHyuCNmEj4+oxQ=",
 			"path": "github.com/gopherjs/gopherjs/js",
 			"revision": "178c176a91fe05e3e6c58fa5c989bad19e6cdcb3",
@@ -831,6 +846,12 @@
 			"path": "github.com/jonboulle/clockwork",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "Js/yx9fZ3+wH1wZpHNIxSTMIaCg=",
+			"path": "github.com/jtolds/gls",
+			"revision": "77f18212c9c7edc9bd6a33d383a7b545ce62f064",
+			"revisionTime": "2017-05-03T22:40:06Z"
 		},
 		{
 			"checksumSHA1": "Js/yx9fZ3+wH1wZpHNIxSTMIaCg=",
@@ -1268,8 +1289,26 @@
 			"revisionTime": "2017-09-25T17:21:51Z"
 		},
 		{
+			"checksumSHA1": "ozRFnFdTG0IjkTE0RkZn71XO4gw=",
+			"path": "github.com/smartystreets/assertions",
+			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
+			"revisionTime": "2017-09-25T17:21:51Z"
+		},
+		{
 			"checksumSHA1": "Vzb+dEH/LTYbvr8RXHmt6xJHz04=",
 			"path": "github.com/smartystreets/assertions/internal/go-render/render",
+			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
+			"revisionTime": "2017-09-25T17:21:51Z"
+		},
+		{
+			"checksumSHA1": "Vzb+dEH/LTYbvr8RXHmt6xJHz04=",
+			"path": "github.com/smartystreets/assertions/internal/go-render/render",
+			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
+			"revisionTime": "2017-09-25T17:21:51Z"
+		},
+		{
+			"checksumSHA1": "r6FauVdOTFnwYQgrKGFuWUbIAJE=",
+			"path": "github.com/smartystreets/assertions/internal/oglematchers",
 			"revision": "0b37b35ec7434b77e77a4bb29b79677cced992ea",
 			"revisionTime": "2017-09-25T17:21:51Z"
 		},
@@ -1286,19 +1325,28 @@
 			"revisionTime": "2017-08-25T22:14:26Z"
 		},
 		{
+			"checksumSHA1": "f4m09DHEetaanti/GqUJzyCBTaI=",
+			"path": "github.com/smartystreets/goconvey/convey",
+			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
+			"revisionTime": "2017-08-25T22:14:26Z"
+		},
+		{
 			"checksumSHA1": "9LakndErFi5uCXtY1KWl0iRnT4c=",
 			"path": "github.com/smartystreets/goconvey/convey/gotest",
 			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
 			"revisionTime": "2017-08-25T22:14:26Z"
 		},
 		{
-=======
->>>>>>> d9dcc2b036c6abdb7427a4fb8046eacc90e9d667
+			"checksumSHA1": "9LakndErFi5uCXtY1KWl0iRnT4c=",
+			"path": "github.com/smartystreets/goconvey/convey/gotest",
+			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
+			"revisionTime": "2017-08-25T22:14:26Z"
+		},
+		{
 			"checksumSHA1": "FWDhk37bhAwZ2363D/L2xePwR64=",
 			"path": "github.com/smartystreets/goconvey/convey/reporting",
 			"revision": "e5b2b7c9111590d019a696c7800593f666e1a7f4",
 			"revisionTime": "2017-08-25T22:14:26Z"
-<<<<<<< HEAD
 		},
 		{
 			"checksumSHA1": "Ow/SSsuBG9203AOsGuce7WWkINI=",
@@ -1345,8 +1393,26 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
+			"checksumSHA1": "wOmzmKDubKZLwYRb3wta1boBnAQ=",
+			"path": "github.com/zhanglianx111/kompose/pkg/app",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "XV/d4t0cPxJyjDa5dUHX+yGfvNE=",
 			"path": "github.com/zhanglianx111/kompose/pkg/kobject",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "XV/d4t0cPxJyjDa5dUHX+yGfvNE=",
+			"path": "github.com/zhanglianx111/kompose/pkg/kobject",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "a3R6KpJZVA4U/F/glVI2zbD5cWI=",
+			"path": "github.com/zhanglianx111/kompose/pkg/loader",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
@@ -1363,8 +1429,26 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
+			"checksumSHA1": "O0DhZhRjDpesUM5CykEzlmZ9/Jo=",
+			"path": "github.com/zhanglianx111/kompose/pkg/loader/bundle",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "rl/GTqMSSXw2stExGzEqmMZV1oI=",
 			"path": "github.com/zhanglianx111/kompose/pkg/loader/compose",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "rl/GTqMSSXw2stExGzEqmMZV1oI=",
+			"path": "github.com/zhanglianx111/kompose/pkg/loader/compose",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "CFmy+jbOJdDFPqaZEHmwyzGbAsg=",
+			"path": "github.com/zhanglianx111/kompose/pkg/transformer",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
@@ -1381,8 +1465,26 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "hduAGbZeHgUzV277YoZ5NsmXEoQ=",
+			"path": "github.com/zhanglianx111/kompose/pkg/transformer/kubernetes",
+			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
+			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
 			"checksumSHA1": "2UVqhAPFtZ/lk/K/7LNjTC07Iyg=",
 			"path": "github.com/zhanglianx111/kompose/pkg/transformer/openshift",
+			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
+			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "2UVqhAPFtZ/lk/K/7LNjTC07Iyg=",
+			"path": "github.com/zhanglianx111/kompose/pkg/transformer/openshift",
+			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
+			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "1tAmgaoBvbKMFvyDOTc473b6Tl8=",
+			"path": "github.com/zhanglianx111/kompose/pkg/utils/archive",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
@@ -1399,10 +1501,28 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "i+7Mu9CMRE5twma1F7ATTBaTTMk=",
+			"path": "github.com/zhanglianx111/kompose/pkg/utils/docker",
+			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
+			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
 			"checksumSHA1": "v3C1am4SsgiPFBflOivCMnEWpZE=",
 			"path": "github.com/zhanglianx111/kompose/pkg/version",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "v3C1am4SsgiPFBflOivCMnEWpZE=",
+			"path": "github.com/zhanglianx111/kompose/pkg/version",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"path": "github.com/zhanglianx111/kompose/routers",
+			"revision": "mykompose",
+			"version": "mykompose",
+			"versionExact": "mykompose"
 		},
 		{
 			"path": "github.com/zhanglianx111/kompose/routers",
@@ -1612,6 +1732,12 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
+			"checksumSHA1": "AvVpgwhxhJgjoSledwDtYrEKVE4=",
+			"path": "google.golang.org/genproto/googleapis/rpc/status",
+			"revision": "40b7550fd0ba4b8f7e9d70ed40fcd4f3375db1de",
+			"revisionTime": "2017-07-10T12:45:57Z"
+		},
+		{
 			"checksumSHA1": "sLbUUw9fGmHHzttezD7cO1ScJ8k=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/google.golang.org/grpc",
 			"path": "google.golang.org/grpc",
@@ -1633,6 +1759,12 @@
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
+			"checksumSHA1": "2NbY9kmMweE4VUsruRsvmViVnNg=",
+			"path": "google.golang.org/grpc/grpclb/grpc_lb_v1",
+			"revision": "41d9b6ea2a6335f3a22074ed35c0542c9da1baf4",
+			"revisionTime": "2017-07-05T23:51:14Z"
+		},
+		{
 			"checksumSHA1": "3Lt5hNAG8qJAYSsNghR5uA1zQns=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/google.golang.org/grpc/grpclog",
 			"path": "google.golang.org/grpc/grpclog",
@@ -1645,6 +1777,12 @@
 			"path": "google.golang.org/grpc/internal",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "hcuHgKp8W0wIzoCnNfKI8NUss5o=",
+			"path": "google.golang.org/grpc/keepalive",
+			"revision": "41d9b6ea2a6335f3a22074ed35c0542c9da1baf4",
+			"revisionTime": "2017-07-05T23:51:14Z"
 		},
 		{
 			"checksumSHA1": "P64GkSdsTZ8Nxop5HYqZJ6e+iHs=",
@@ -1666,6 +1804,24 @@
 			"path": "google.golang.org/grpc/peer",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "ZY8Tq61fGK1stTuvwK5WoqcU8j8=",
+			"path": "google.golang.org/grpc/stats",
+			"revision": "41d9b6ea2a6335f3a22074ed35c0542c9da1baf4",
+			"revisionTime": "2017-07-05T23:51:14Z"
+		},
+		{
+			"checksumSHA1": "DIv9qbApAoh2cF2G3Br24lVPqUI=",
+			"path": "google.golang.org/grpc/status",
+			"revision": "41d9b6ea2a6335f3a22074ed35c0542c9da1baf4",
+			"revisionTime": "2017-07-05T23:51:14Z"
+		},
+		{
+			"checksumSHA1": "aixGx/Kd0cj9ZlZHacpHe3XgMQ4=",
+			"path": "google.golang.org/grpc/tap",
+			"revision": "41d9b6ea2a6335f3a22074ed35c0542c9da1baf4",
+			"revisionTime": "2017-07-05T23:51:14Z"
 		},
 		{
 			"checksumSHA1": "dzbx9oVtSfVgNE3lTl+r5xOXxcw=",
@@ -2103,80 +2259,88 @@
 			"path": "k8s.io/client-go/1.4/pkg/watch",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
-=======
->>>>>>> d9dcc2b036c6abdb7427a4fb8046eacc90e9d667
 		},
 		{
-			"checksumSHA1": "wOmzmKDubKZLwYRb3wta1boBnAQ=",
-			"path": "github.com/zhanglianx111/kompose/pkg/app",
+			"checksumSHA1": "hiiLi/oEybWWWo9yjrlIe+LMANI=",
+			"path": "k8s.io/client-go/1.4/pkg/watch/versioned",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "drHb9JbtevPiO4Q6X0rxwV3r0aE=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/client-go/1.4/rest",
+			"path": "k8s.io/client-go/1.4/rest",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "XV/d4t0cPxJyjDa5dUHX+yGfvNE=",
-			"path": "github.com/zhanglianx111/kompose/pkg/kobject",
+			"checksumSHA1": "vgy7QYY5VMe2zCcQkHJe45Z/8ic=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/client-go/1.4/tools/clientcmd/api",
+			"path": "k8s.io/client-go/1.4/tools/clientcmd/api",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "a3R6KpJZVA4U/F/glVI2zbD5cWI=",
-			"path": "github.com/zhanglianx111/kompose/pkg/loader",
+			"checksumSHA1": "Krb+RRSWBlRPCyJrJMjKwQFB4EU=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/client-go/1.4/tools/metrics",
+			"path": "k8s.io/client-go/1.4/tools/metrics",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "O0DhZhRjDpesUM5CykEzlmZ9/Jo=",
-			"path": "github.com/zhanglianx111/kompose/pkg/loader/bundle",
+			"checksumSHA1": "ttP6BUoLQB9Ny16ywbEMuFtX4FI=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/client-go/1.4/transport",
+			"path": "k8s.io/client-go/1.4/transport",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "rl/GTqMSSXw2stExGzEqmMZV1oI=",
-			"path": "github.com/zhanglianx111/kompose/pkg/loader/compose",
+			"checksumSHA1": "6xqfIvB7e4QTZ6IrNg3A0+nhR9M=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/federation/apis/federation",
+			"path": "k8s.io/kubernetes/federation/apis/federation",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "CFmy+jbOJdDFPqaZEHmwyzGbAsg=",
-			"path": "github.com/zhanglianx111/kompose/pkg/transformer",
+			"checksumSHA1": "r3SIJ1AXoBoCYDZg1OCThjKtrE4=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/federation/apis/federation/install",
+			"path": "k8s.io/kubernetes/federation/apis/federation/install",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"checksumSHA1": "hduAGbZeHgUzV277YoZ5NsmXEoQ=",
-			"path": "github.com/zhanglianx111/kompose/pkg/transformer/kubernetes",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
-		},
-		{
-			"checksumSHA1": "2UVqhAPFtZ/lk/K/7LNjTC07Iyg=",
-			"path": "github.com/zhanglianx111/kompose/pkg/transformer/openshift",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
-		},
-		{
-			"checksumSHA1": "1tAmgaoBvbKMFvyDOTc473b6Tl8=",
-			"path": "github.com/zhanglianx111/kompose/pkg/utils/archive",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
-		},
-		{
-			"checksumSHA1": "i+7Mu9CMRE5twma1F7ATTBaTTMk=",
-			"path": "github.com/zhanglianx111/kompose/pkg/utils/docker",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
-		},
-		{
-			"checksumSHA1": "v3C1am4SsgiPFBflOivCMnEWpZE=",
-			"path": "github.com/zhanglianx111/kompose/pkg/version",
+			"checksumSHA1": "LEoGxguGj3J5XnM7t87JYxEuuxU=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/federation/apis/federation/v1beta1",
+			"path": "k8s.io/kubernetes/federation/apis/federation/v1beta1",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
-			"path": "github.com/zhanglianx111/kompose/routers",
-			"revision": "mykompose",
-			"version": "mykompose",
-			"versionExact": "mykompose"
+			"checksumSHA1": "e/zjH2EzyRbpH45aKvSbZ4UkJP8=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset",
+			"path": "k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "VVDHmmUye+uUJ0Ka9FFrVHKsuk4=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset/typed/core/unversioned",
+			"path": "k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset/typed/core/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "Q+261EPqcBLbJkeQXwuX+8aWB74=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset/typed/extensions/unversioned",
+			"path": "k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset/typed/extensions/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "3qYI6HSm84rlMBIVVnzJB6p3e3g=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset/typed/federation/unversioned",
+			"path": "k8s.io/kubernetes/federation/client/clientset_generated/federation_internalclientset/typed/federation/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "7T9Y8bktzfA8Ol2ylRoKo8wQbpY=",
@@ -2184,6 +2348,13 @@
 			"path": "k8s.io/kubernetes/pkg/api",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "FIySN3DjvgcNQaRulkp8aKblhVs=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/api/annotations",
+			"path": "k8s.io/kubernetes/pkg/api/annotations",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "4RgJA0QYB8AdYPmLyrBo/HMslGY=",
@@ -2233,6 +2404,13 @@
 			"path": "k8s.io/kubernetes/pkg/api/resource",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "b02NTcfXEp7Wcf+3BhbbGgsqLlQ=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/api/rest",
+			"path": "k8s.io/kubernetes/pkg/api/rest",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "Bion+OVcurefmh5QzzF+S92LWfs=",
@@ -2466,6 +2644,13 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "sewnOOLcpXdYDJA4vpZmM12/v3s=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/apis/extensions/validation",
+			"path": "k8s.io/kubernetes/pkg/apis/extensions/validation",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "yRc+qZ/QJ3F9Q0nX3hzYU5JaZ8Q=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/apis/policy",
 			"path": "k8s.io/kubernetes/pkg/apis/policy",
@@ -2522,6 +2707,13 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "tJF0BhAI4/9t7ltKrC1jH24B9oM=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/apis/storage/util",
+			"path": "k8s.io/kubernetes/pkg/apis/storage/util",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "0l2hyj/MuGynnBUIjVTVzbvffLc=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/apis/storage/v1beta1",
 			"path": "k8s.io/kubernetes/pkg/apis/storage/v1beta1",
@@ -2550,6 +2742,62 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "EVB+lFAxopK47H76/xdGFMoyYYc=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/cache",
+			"path": "k8s.io/kubernetes/pkg/client/cache",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "Gun36fUXStUurXYrji9ruO6RCQo=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "5Mso8NcTDnWWNNKsYDomZzZKSh8=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/authentication/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/authentication/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "jjE9q21ODyYo66k7P/hOHKKmMew=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/authorization/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/authorization/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "VjsMW6lbYS6mguNMFVyfnlT7Rjk=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/autoscaling/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/autoscaling/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "uyGnnnPKErQxJJR8zkue31IeiCs=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/batch/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/batch/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "M8E2iJR/osMHkCQVcjsPNPiz5vw=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/certificates/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/certificates/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "x2ioZcul2Gl1RoGXT0FjBTjL7Vs=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/core/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/core/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "fec1kgZyHChenAaUM0oO/SxvbuY=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/extensions/unversioned",
 			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/extensions/unversioned",
@@ -2557,11 +2805,32 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "bB1Tt8315vV5hXL85JBEdppDmJQ=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/rbac/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/rbac/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "tPxRTjs5EuBqsiSwdh3kzGxjOfU=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/storage/unversioned",
+			"path": "k8s.io/kubernetes/pkg/client/clientset_generated/internalclientset/typed/storage/unversioned",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "6d6i1P/Q25fQKlVsnCLsj3ItiLg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/metrics",
 			"path": "k8s.io/kubernetes/pkg/client/metrics",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "Df0LfXtnh+mYgSwcuidIkjeD6nc=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/record",
+			"path": "k8s.io/kubernetes/pkg/client/record",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "WL2Q1NT8TUsuLwgMqWjGj4gQbj8=",
@@ -2585,6 +2854,13 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "dIaUWM7joClUKuCyi+ucxP69j34=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/typed/dynamic",
+			"path": "k8s.io/kubernetes/pkg/client/typed/dynamic",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "q3NuDRqthPxhrWX8VzFSS1VOTgQ=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/unversioned",
 			"path": "k8s.io/kubernetes/pkg/client/unversioned",
@@ -2592,11 +2868,67 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "KXlDbzilxUv9uiww0aZifOSdpEw=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/unversioned/adapters/internalclientset",
+			"path": "k8s.io/kubernetes/pkg/client/unversioned/adapters/internalclientset",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "wqqu/x+7SprDHiMi+CCdgdoFr6s=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/unversioned/auth",
+			"path": "k8s.io/kubernetes/pkg/client/unversioned/auth",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "+PzEcxda2i3AaoegwdRLKg68J2w=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/unversioned/clientcmd",
+			"path": "k8s.io/kubernetes/pkg/client/unversioned/clientcmd",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "2+LIlrulpZtUhu7aSx7Ktzeyin0=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api",
 			"path": "k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "ZZaKsZmejN75r0kbrRfKUidId+o=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api/latest",
+			"path": "k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api/latest",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "6ioeU6OUtBPGntDlBfT52W0ms1s=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api/v1",
+			"path": "k8s.io/kubernetes/pkg/client/unversioned/clientcmd/api/v1",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "RADjrZoIEh6URiR5BHWYSiPsR/M=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/controller",
+			"path": "k8s.io/kubernetes/pkg/controller",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "i/g/L1s7lpFBcAVLU++EaoQqezk=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/controller/deployment/util",
+			"path": "k8s.io/kubernetes/pkg/controller/deployment/util",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "f012rvcb10a52Fm3VQ/KGzOBCDs=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/controller/framework",
+			"path": "k8s.io/kubernetes/pkg/controller/framework",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "T+bsNyzUZRKO5bAUjA/Fc49VUeE=",
@@ -2613,11 +2945,46 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "2bO08locFV+ZB72imGBJ9y41Quw=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/credentialprovider",
+			"path": "k8s.io/kubernetes/pkg/credentialprovider",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "b0odDrMqAjKHu+5qKN+b1v9uUbU=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/fieldpath",
+			"path": "k8s.io/kubernetes/pkg/fieldpath",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "7+yaKlCy9TNLLRxyH4ivCmJYyug=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/fields",
 			"path": "k8s.io/kubernetes/pkg/fields",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "60hi233BmjIbTvLJizMm3FQtZRY=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/kubectl",
+			"path": "k8s.io/kubernetes/pkg/kubectl",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "J6yzUSkRadZ/1UvjSsiXl6lxCUc=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/kubectl/cmd/util",
+			"path": "k8s.io/kubernetes/pkg/kubectl/cmd/util",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "v0cbqwWOkoQWJ2RDfcVdaRO+8GA=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/kubectl/resource",
+			"path": "k8s.io/kubernetes/pkg/kubectl/resource",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "JhiFFVbjl3YbInZI8dpeRyzm9Yk=",
@@ -2646,6 +3013,20 @@
 			"path": "k8s.io/kubernetes/pkg/master/ports",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "KAJlYtJ5AJCqWgtXtW1SQF0ycwo=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/registry/generic",
+			"path": "k8s.io/kubernetes/pkg/registry/generic",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "ic/aevhmADo2N/5jjA42r4nvcKo=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/registry/thirdpartyresourcedata",
+			"path": "k8s.io/kubernetes/pkg/registry/thirdpartyresourcedata",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "ZwFF0UdeDKs0NHDN9cI2ZHWvJlM=",
@@ -2704,6 +3085,13 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "CC74/pXxIGWNsYco5uQM+0hgdYQ=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/security/podsecuritypolicy/util",
+			"path": "k8s.io/kubernetes/pkg/security/podsecuritypolicy/util",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "tjFwhteleMmrRdIcfVb6FbnqL/k=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/securitycontextconstraints/util",
 			"path": "k8s.io/kubernetes/pkg/securitycontextconstraints/util",
@@ -2725,6 +3113,55 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "51EymYXnrfMRIv6h+x9JzorQmKI=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/storage",
+			"path": "k8s.io/kubernetes/pkg/storage",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "GL2HOmm9Udxja6ioE1RiQ9Cygqw=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/storage/etcd",
+			"path": "k8s.io/kubernetes/pkg/storage/etcd",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "fiCky3MLTl/TgMjc25beRTfugRQ=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/storage/etcd/metrics",
+			"path": "k8s.io/kubernetes/pkg/storage/etcd/metrics",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "JRigTVtNcCBTo7f87BjVHxS7EV8=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/storage/etcd/util",
+			"path": "k8s.io/kubernetes/pkg/storage/etcd/util",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "33ldR+Nu/wobaYABYEGjPQV3Cmc=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/storage/etcd3",
+			"path": "k8s.io/kubernetes/pkg/storage/etcd3",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "Edv64CNdO7IiPMc6xNgXkzUdPYc=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/storage/storagebackend",
+			"path": "k8s.io/kubernetes/pkg/storage/storagebackend",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "P4gtA3c9ZDiRRig9La4WUBcPMD8=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/storage/storagebackend/factory",
+			"path": "k8s.io/kubernetes/pkg/storage/storagebackend/factory",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "ElpuUlRYQmhpAQ8/c9Iz//7EyKk=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/types",
 			"path": "k8s.io/kubernetes/pkg/types",
@@ -2737,6 +3174,20 @@
 			"path": "k8s.io/kubernetes/pkg/util",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "qdEAcPAgYi+AP/viZu4cn4Cavp8=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/cache",
+			"path": "k8s.io/kubernetes/pkg/util/cache",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "r8cnja682rOZqiX7d9aO2zjV6HI=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/certificates",
+			"path": "k8s.io/kubernetes/pkg/util/certificates",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "WjO0/93XDmp4zVyt06xrbXHhY7c=",
@@ -2760,11 +3211,32 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "ttaz0ZsOvwPz+lfxpafuU0YBDWg=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/diff",
+			"path": "k8s.io/kubernetes/pkg/util/diff",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "V7KAvLVOn+SuzY0ouGsZ7hplLQE=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/errors",
 			"path": "k8s.io/kubernetes/pkg/util/errors",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "VGfJt5TIo5O56QMnanCJBxKpeNM=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/exec",
+			"path": "k8s.io/kubernetes/pkg/util/exec",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "v5NJ1vrtAbSFKqOk57An3ad3sm4=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/flag",
+			"path": "k8s.io/kubernetes/pkg/util/flag",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "kD0ROW6agcspNRPdut+bn5nOTGk=",
@@ -2788,6 +3260,13 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "2mxwHk334jyQr2Qa4LP1L3+DeiE=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/homedir",
+			"path": "k8s.io/kubernetes/pkg/util/homedir",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "eZnpXfc7gyoz5LgONcLIxR9+kHg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/integer",
 			"path": "k8s.io/kubernetes/pkg/util/integer",
@@ -2807,6 +3286,13 @@
 			"path": "k8s.io/kubernetes/pkg/util/json",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "kf7zRB/ZImmpB5Shz3qqdNcH9II=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/jsonpath",
+			"path": "k8s.io/kubernetes/pkg/util/jsonpath",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "TX1y89Zl6YquoCQY9w2Qbi/8SZ4=",
@@ -2837,11 +3323,25 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "lNhJOCOqCikTwL6nrtYpv2McbdI=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/pod",
+			"path": "k8s.io/kubernetes/pkg/util/pod",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "0gxYCwvMJvmYj5T4xmx0EOIy9jg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/rand",
 			"path": "k8s.io/kubernetes/pkg/util/rand",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "n7/5CEU6ai4CvIq/H7gTxx3jfVY=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/replicaset",
+			"path": "k8s.io/kubernetes/pkg/util/replicaset",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "kIArGH/wDFzunrR9HC+2B/A4xoo=",
@@ -2856,6 +3356,20 @@
 			"path": "k8s.io/kubernetes/pkg/util/sets",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "8MbPMBM0O7H24Ek/GxgG5zGDu7E=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/slice",
+			"path": "k8s.io/kubernetes/pkg/util/slice",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "w6vFVp4rlGUsHHBGAlFHv423hOw=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/pkg/util/strategicpatch",
+			"path": "k8s.io/kubernetes/pkg/util/strategicpatch",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "jdH89+TFUfd1+/tnSfXVmdAdI3M=",
@@ -2935,11 +3449,32 @@
 			"revisionTime": "2018-02-01T08:46:37Z"
 		},
 		{
+			"checksumSHA1": "HnccdtgNLH6ERz4xuaQu7hiYDlY=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/third_party/forked/golang/json",
+			"path": "k8s.io/kubernetes/third_party/forked/golang/json",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"checksumSHA1": "yTgV04Q8wbRASo+AJbY6mDM3xgc=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/third_party/forked/golang/netutil",
+			"path": "k8s.io/kubernetes/third_party/forked/golang/netutil",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
 			"checksumSHA1": "P4XQrPql22/Swxo5kmqSGFNZWEg=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/third_party/forked/golang/reflect",
 			"path": "k8s.io/kubernetes/third_party/forked/golang/reflect",
 			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
 			"revisionTime": "2018-02-01T08:46:37Z"
+		},
+		{
+			"checksumSHA1": "os7YigVMjDbBGFnvWLauQD9fpFI=",
+			"origin": "github.com/zhanglianx111/kompose/vendor/k8s.io/kubernetes/third_party/forked/golang/template",
+			"path": "k8s.io/kubernetes/third_party/forked/golang/template",
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		}
 	],
 	"rootPath": "github.com/zhanglianx111/c2o"
