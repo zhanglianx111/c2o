@@ -553,8 +553,8 @@
 			"checksumSHA1": "SL+jCUHHU7clR330N6qe3O0Csek=",
 			"origin": "github.com/zhanglianx111/kompose/vendor/github.com/docker/libcompose/yaml",
 			"path": "github.com/docker/libcompose/yaml",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "57bd716502dcbe1799f026148016022b0f3b989c",
+			"revisionTime": "2017-10-25T08:38:09Z"
 		},
 		{
 			"checksumSHA1": "s/YDu3X9GDsWLuEZ8S8F7eZ3shk=",
@@ -1401,14 +1401,14 @@
 		{
 			"checksumSHA1": "O0DhZhRjDpesUM5CykEzlmZ9/Jo=",
 			"path": "github.com/zhanglianx111/kompose/pkg/loader/bundle",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "rl/GTqMSSXw2stExGzEqmMZV1oI=",
 			"path": "github.com/zhanglianx111/kompose/pkg/loader/compose",
-			"revision": "05c587861d99aa6874cfcd38e90104e92de82a0e",
-			"revisionTime": "2018-02-01T08:46:37Z"
+			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
+			"revisionTime": "2018-02-01T09:42:16Z"
 		},
 		{
 			"checksumSHA1": "CFmy+jbOJdDFPqaZEHmwyzGbAsg=",
@@ -1445,6 +1445,12 @@
 			"path": "github.com/zhanglianx111/kompose/pkg/version",
 			"revision": "0d81e6d1d64bb7acdae7de25cff08893b92a4745",
 			"revisionTime": "2018-02-01T09:42:16Z"
+		},
+		{
+			"path": "github.com/zhanglianx111/kompose/routers",
+			"revision": "mykompose",
+			"version": "mykompose",
+			"versionExact": "mykompose"
 		},
 		{
 			"checksumSHA1": "X1NTlfcau2XcV6WtAHF6b/DECOA=",
