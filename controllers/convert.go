@@ -3,13 +3,11 @@ package controllers
 import (
 	"encoding/json"
 	"errors"
-	//	"bytes"
 	"fmt"
 	"github.com/astaxie/beego"
-	"os"
-	//	"github.com/astaxie/beego/logs"
 	"github.com/zhanglianx111/c2o/models"
 	"github.com/zhanglianx111/kompose/pkg/app"
+	"os"
 )
 
 // Operations about docker-compose file

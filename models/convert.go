@@ -1,12 +1,8 @@
 package models
 
 import (
-	//	"errors"
 	"github.com/astaxie/beego/logs"
-	//	"github.com/kubernetes/kompose/pkg/app"
 	"github.com/zhanglianx111/kompose/pkg/kobject"
-	//	"strconv"
-	//	"time"
 )
 
 type File struct {
